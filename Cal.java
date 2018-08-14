@@ -86,5 +86,4 @@ public class Cal {
 		// (일 대입) 윤.평년
 		YMcal.M(month);
 	}
-
 }
